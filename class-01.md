@@ -425,9 +425,7 @@ G THE ABC OF PROGRAMMING HANDBOOKS Large companies often provide handbooks for n
 If the brakes now pass the test, the mechanic knows they are fixed and can move onto the next test.
 You could compare scripts to any of the following: RECIPES By following the instructions in a recipe, one-by-one in the order set out, cooks can create a dish they have never made before.
 
-A script is a series of instructions that the computer 
-can follow in order to achieve a goal. 
-Each time the script runs, it might only use a subset of 
+A script is a series of ico, it might only use a subset of 
 all the instructions. 
 Computers approach tasks in a different way than 
 humans, so your instructions must let the computer 

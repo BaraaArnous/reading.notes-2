@@ -20,5 +20,9 @@ class-02    | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript  Ins
 class-03   | [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 class-04   | [Read: 04 - HTML Links, CSS Layout, JS Functions](class-04.md)
 class-05   | [Read: 05 - HTML Images; CSS Color & Text](class-05.md)
+class-06   | [Read: 06 - HTML Images; CSS Color & Text](class-06.md)
+class-07   | [Read: 07 - HTML Images; CSS Color & Text](class-07.md)
+class-08   | [Read: 08 - HTML Images; CSS Color & Text](class-08.md)
+class-09   | [Read: 09 - “Lists, Tables & Forms”](class-09.md)
 
   
